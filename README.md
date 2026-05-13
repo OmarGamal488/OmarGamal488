@@ -28,15 +28,7 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3" alt="divider" />
 
-<table align="center"><tr><td>
-
 ### 🧠 About me
-
-</td><td>
-
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="200" alt="coding" />
-
-</td></tr></table>
 
 I'm an **AI Engineer** passionate about building intelligent, end-to-end systems that turn cutting-edge research into real-world impact. I work across **agentic AI**, **retrieval-augmented generation**, **multi-agent systems**, **deep learning**, **computer vision**, **NLP**, and **speech** — comfortable across the full lifecycle, from research and prototyping to production deployment and MLOps.
 
@@ -85,19 +77,6 @@ I'm an **AI Engineer** passionate about building intelligent, end-to-end systems
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3" alt="divider" />
 
-### 🚀 Featured projects
-
-| Project | Stack | What it does |
-|<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3" alt="divider" />|<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3" alt="divider" />|<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3" alt="divider" />|
-| [**NileTel RAG**](https://github.com/OmarGamal488/niletel-rag-support) | LangGraph · LangChain · ChromaDB · BM25 · DSPy · RAGAS · FastAPI · Streamlit | Bilingual (Arabic + English) AI customer-support assistant for a simulated Egyptian telecom — routes queries across info / complaint / action with hallucination defenses and PII redaction. |
-| [**SmartHospital**](https://github.com/OmarGamal488/smarthospital) | Django · Channels · LangChain · DSPy · python-telegram-bot · Docker · CI/CD | End-to-end clinical operations platform: patients self-book online or via Telegram, doctors see live queues with AI diagnoses, staff get a chat-driven admin console grounded in OpenFDA / MedlinePlus / NIH / Infermedica. |
-| [**P2P MBTI Predictor**](https://github.com/OmarGamal488/P2P-MBTI-Prediction) | DeepSeek · QA-LoRA · FAISS · Sentence-BERT · SMOTE | Predicts MBTI personality from social-media writing — dual-LLM design beat 10 ML/DL baselines (incl. XGBoost, DeBERTa), reaching ≥93% on 3 of 4 dimensions. |
-| [**Image Captioning System**](https://github.com/OmarGamal488/flickr-image-captioning) | PyTorch · Bahdanau Attention · GradCAM · Optuna · MLflow · Docker | Encoder-decoder image captioner with beam search, explainability, hyperparameter tuning, and deployment to HuggingFace Hub. |
-| [**Lecture Video Search**](https://github.com/OmarGamal488/lecture-search) | Whisper · ChromaDB · Ollama · FastAPI | Lets you ask questions about recorded lectures in natural language and jump to the exact timestamp where the answer was spoken. |
-| [**E-Commerce Churn Platform**](https://github.com/OmarGamal488/ecommerce-churn-platform) | XGBoost · LightGBM · SHAP · Dash · Power BI · MLflow · Docker | Predicts which online-store customers are about to leave and explains why, surfaced via interactive dashboards. |
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3" alt="divider" />
-
 ### 🏆 Activities
 
 - 🤿 **ROV Team Member** — Ranked at MATE (Regional & International), NURC (USA), and TAC, *2022–2024*
@@ -126,12 +105,6 @@ I'm an **AI Engineer** passionate about building intelligent, end-to-end systems
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=OmarGamal488&theme=tokyonight&hide_border=true" height="160" alt="Streak" />
-</p>
-
-### 📈 Activity graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=OmarGamal488&theme=tokyo-night&hide_border=true&area=true&radius=8" alt="Activity graph" />
 </p>
 
 ### 🏆 Trophies
