@@ -10,6 +10,9 @@
   </a>
 </p>
 
+<!-- Animated divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3" alt="divider" />
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=OmarGamal488&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/OmarGamal488?label=Followers&style=flat&color=blue" alt="GitHub followers" />
@@ -23,7 +26,7 @@
   <a href="https://github.com/OmarGamal488"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" /></a>
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3" alt="divider" />
 
 <table align="center"><tr><td>
 
@@ -31,7 +34,7 @@
 
 </td><td>
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="120" alt="coding" />
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="200" alt="coding" />
 
 </td></tr></table>
 
@@ -43,7 +46,7 @@ I'm an **AI Engineer** passionate about building intelligent, end-to-end systems
 - 🌍 Bilingual systems builder — Arabic + English
 - 📫 Reach me at **omargamal48812@gmail.com**
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3" alt="divider" />
 
 ### 🛠️ Technical skills
 
@@ -80,12 +83,12 @@ I'm an **AI Engineer** passionate about building intelligent, end-to-end systems
 #### Software Engineering & Methodologies
 ![OOP](https://img.shields.io/badge/-OOP-555?style=flat) ![Data%20Structures](https://img.shields.io/badge/-Data%20Structures%20%26%20Algorithms-555?style=flat) ![Unit%20Testing](https://img.shields.io/badge/-Unit%20Testing-555?style=flat) ![Agile](https://img.shields.io/badge/-Agile-555?style=flat)
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3" alt="divider" />
 
 ### 🚀 Featured projects
 
 | Project | Stack | What it does |
-|---|---|---|
+|<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3" alt="divider" />|<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3" alt="divider" />|<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3" alt="divider" />|
 | [**NileTel RAG**](https://github.com/OmarGamal488/niletel-rag-support) | LangGraph · LangChain · ChromaDB · BM25 · DSPy · RAGAS · FastAPI · Streamlit | Bilingual (Arabic + English) AI customer-support assistant for a simulated Egyptian telecom — routes queries across info / complaint / action with hallucination defenses and PII redaction. |
 | [**SmartHospital**](https://github.com/OmarGamal488/smarthospital) | Django · Channels · LangChain · DSPy · python-telegram-bot · Docker · CI/CD | End-to-end clinical operations platform: patients self-book online or via Telegram, doctors see live queues with AI diagnoses, staff get a chat-driven admin console grounded in OpenFDA / MedlinePlus / NIH / Infermedica. |
 | [**P2P MBTI Predictor**](https://github.com/OmarGamal488/P2P-MBTI-Prediction) | DeepSeek · QA-LoRA · FAISS · Sentence-BERT · SMOTE | Predicts MBTI personality from social-media writing — dual-LLM design beat 10 ML/DL baselines (incl. XGBoost, DeBERTa), reaching ≥93% on 3 of 4 dimensions. |
@@ -93,7 +96,7 @@ I'm an **AI Engineer** passionate about building intelligent, end-to-end systems
 | [**Lecture Video Search**](https://github.com/OmarGamal488/lecture-search) | Whisper · ChromaDB · Ollama · FastAPI | Lets you ask questions about recorded lectures in natural language and jump to the exact timestamp where the answer was spoken. |
 | [**E-Commerce Churn Platform**](https://github.com/OmarGamal488/ecommerce-churn-platform) | XGBoost · LightGBM · SHAP · Dash · Power BI · MLflow · Docker | Predicts which online-store customers are about to leave and explains why, surfaced via interactive dashboards. |
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3" alt="divider" />
 
 ### 🏆 Activities
 
@@ -103,17 +106,32 @@ I'm an **AI Engineer** passionate about building intelligent, end-to-end systems
 - 🤝 **Organizer** — IEEE Alexandria University Chapter (2024–2025); ORCE Robotics Competition (2024); MakeX Robotics mentor
 - 👨‍🏫 **Instructor** — Python & AI Fundamentals at Vortex Robotics, Alexandria
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3" alt="divider" />
 
 ### 📊 GitHub stats
 
 <p align="center">
-  <img src="https://github-readme-stats.hackclub.dev/api?username=OmarGamal488&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" alt="Omar's GitHub stats" />
-  <img src="https://github-readme-stats.hackclub.dev/api/top-langs/?username=OmarGamal488&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" height="160" alt="Top languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OmarGamal488&theme=tokyonight" alt="Profile details" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OmarGamal488&theme=tokyonight&hide_border=true" height="160" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=OmarGamal488&theme=tokyonight" alt="Repos per language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=OmarGamal488&theme=tokyonight" alt="Most commit language" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=OmarGamal488&theme=tokyonight" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=OmarGamal488&theme=tokyonight&utcOffset=2" alt="Productive time" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OmarGamal488&theme=tokyonight&hide_border=true" height="160" alt="Streak" />
+</p>
+
+### 📈 Activity graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=OmarGamal488&theme=tokyo-night&hide_border=true&area=true&radius=8" alt="Activity graph" />
 </p>
 
 ### 🏆 Trophies
@@ -122,19 +140,37 @@ I'm an **AI Engineer** passionate about building intelligent, end-to-end systems
   <img src="https://github-profile-trophy.vercel.app/?username=OmarGamal488&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
 </p>
 
----
-
-### 🐍 Contribution snake
+### 💭 Random dev quote
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/OmarGamal488/OmarGamal488/output/github-contribution-grid-snake-dark.svg" alt="Snake animation eating my contributions" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random quote" />
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3" alt="divider" />
+
+### 🤝 Let's connect
+
+<p align="center">
+  <a href="mailto:omargamal48812@gmail.com">
+    <img height="60" src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/omar-elkady-504849365">
+    <img height="60" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/OmarGamal488">
+    <img height="60" src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" alt="GitHub" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/213760677-eea102e3-72c9-4ae3-9bb1-9b332d4cb22b.gif" width="350" alt="AI animation" />
+</p>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3" alt="divider" />
 
 <!-- Animated bottom wave -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer&animation=fadeIn" alt="footer" />
 </p>
 
-<p align="center"><i>Always learning, always building — open to collaboration and AI Engineer opportunities.</i></p>
+<p align="center"><i>✨ Always learning, always building — open to collaboration and AI Engineer opportunities. ✨</i></p>
