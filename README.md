@@ -37,7 +37,7 @@
 
 I'm an **AI Engineer** passionate about building intelligent, end-to-end systems that turn cutting-edge research into real-world impact. I work across **agentic AI**, **retrieval-augmented generation**, **multi-agent systems**, **deep learning**, **computer vision**, **NLP**, and **speech** — comfortable across the full lifecycle, from research and prototyping to production deployment and MLOps.
 
-- 🎓 Computer Science graduate (Intelligent Systems) — Faculty of Computers & Data Sciences, **Alexandria University**
+- 🎓 Computer Science graduate (Intelligent Systems) — Faculty of Computers & Data Sciences, **Alexandria University** · Ranked **1st in Class** with GPA **3.99 / 4.0**
 - 🚀 Currently in the **Information Technology Institute (ITI)** Advanced AI track
 - 🤖 Two years of international robotics competition experience (MATE, NURC, TAC)
 - 🌍 Bilingual systems builder — Arabic + English
@@ -86,7 +86,7 @@ I'm an **AI Engineer** passionate about building intelligent, end-to-end systems
 
 | Project | Stack | What it does |
 |---|---|---|
-| [**NileTel RAG**](https://github.com/OmarGamal488/niletel-rag-support) — *ITI Final Project* | LangGraph · LangChain · ChromaDB · BM25 · DSPy · RAGAS · FastAPI · Streamlit | Bilingual (Arabic + English) AI customer-support assistant for a simulated Egyptian telecom — routes queries across info / complaint / action with hallucination defenses and PII redaction. |
+| [**NileTel RAG**](https://github.com/OmarGamal488/niletel-rag-support) | LangGraph · LangChain · ChromaDB · BM25 · DSPy · RAGAS · FastAPI · Streamlit | Bilingual (Arabic + English) AI customer-support assistant for a simulated Egyptian telecom — routes queries across info / complaint / action with hallucination defenses and PII redaction. |
 | [**SmartHospital**](https://github.com/OmarGamal488/smarthospital) | Django · Channels · LangChain · DSPy · python-telegram-bot · Docker · CI/CD | End-to-end clinical operations platform: patients self-book online or via Telegram, doctors see live queues with AI diagnoses, staff get a chat-driven admin console grounded in OpenFDA / MedlinePlus / NIH / Infermedica. |
 | [**P2P MBTI Predictor**](https://github.com/OmarGamal488/P2P-MBTI-Prediction) | DeepSeek · QA-LoRA · FAISS · Sentence-BERT · SMOTE | Predicts MBTI personality from social-media writing — dual-LLM design beat 10 ML/DL baselines (incl. XGBoost, DeBERTa), reaching ≥93% on 3 of 4 dimensions. |
 | [**Image Captioning System**](https://github.com/OmarGamal488/flickr-image-captioning) | PyTorch · Bahdanau Attention · GradCAM · Optuna · MLflow · Docker | Encoder-decoder image captioner with beam search, explainability, hyperparameter tuning, and deployment to HuggingFace Hub. |
@@ -108,8 +108,8 @@ I'm an **AI Engineer** passionate about building intelligent, end-to-end systems
 ### 📊 GitHub stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OmarGamal488&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmarGamal488&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" height="160" />
+  <img src="https://github-readme-stats.hackclub.dev/api?username=OmarGamal488&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" alt="Omar's GitHub stats" />
+  <img src="https://github-readme-stats.hackclub.dev/api/top-langs/?username=OmarGamal488&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" height="160" alt="Top languages" />
 </p>
 
 <p align="center">
